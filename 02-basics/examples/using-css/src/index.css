@@ -1,0 +1,5 @@
+/* override the bootstrap display-4 style on the h1 element */
+h1.display-4 {
+    font-size: 3.5rem;
+    font-weight: 700;
+}

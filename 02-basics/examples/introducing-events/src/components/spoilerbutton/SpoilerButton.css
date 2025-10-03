@@ -1,0 +1,37 @@
+.spoiler-container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+}
+
+.spoiler-container p {
+  margin: 10px 0;
+  line-height: 1.5;
+}
+
+.spoiler-button {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  margin: 10px 0;
+}
+
+.spoiler-button:hover {
+  background-color: #c82333;
+}
+
+.spoiler-text {
+  padding: 15px;
+  background-color: #bdd9e2;
+  border: 1px solid #bdd9e2;
+  border-radius: 4px;
+  font-weight: bold;
+  color: #000;
+}
