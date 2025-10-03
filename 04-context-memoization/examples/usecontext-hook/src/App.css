@@ -1,0 +1,28 @@
+.light-theme {
+    background-color: #ffffff;
+    color: #212529;
+}
+
+.dark-theme {
+    background-color: #212529;
+    color: #ffffff;
+}
+
+.btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Light button */
+.btn-light {
+  background-color: #212529;
+  color: #ffffff;
+}
+
+/* Dark button */
+.btn-dark {
+  background-color: #57c79c;
+  color: #000000;
+}
